@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "homework2.css" ?>
+<!DOCTYPE songs>
+<songs>
+<song>
+	<song_name>Hurricane</song_name>
+	<artist>Kanye West</artist>
+	<genre>Rap</genre>
+	<year_released>2021</year_released>
+</song>
+<song>
+	<song_name>Weekend</song_name>
+	<artist>Mac Miller feat. Miguel</artist>
+	<genre>Rap</genre>
+	<year_released>2015</year_released>
+</song>
+<song>
+	<song_name>Consideration</song_name>
+	<artist>Rihanna feat. SZA</artist>
+	<genre>Hip-Hop</genre>
+	<year_released>2016</year_released>
+</song>
+<song>
+	<song_name>Banana Clip</song_name>
+	<artist>Miguel</artist>
+	<genre>R and B</genre>
+	<year_released>2017</year_released>
+</song>
+<song>
+	<song_name>Normal Girl</song_name>
+	<artist>SZA</artist>
+	<genre>R and B</genre>
+	<year_released>2017</year_released>
+</song>
+<song>
+	<song_name>Man in the Hat</song_name>
+	<artist>Mac Miller</artist>
+	<genre>Rap</genre>
+	<year_released>2011</year_released>
+</song>
+<song>
+	<song_name>Garden</song_name>
+	<artist>SZA</artist>
+	<genre>R and B</genre>
+	<year_released>2017</year_released>
+</song>
+<song>
+	<song_name>Playing Games</song_name>
+	<artist>Summer Walker</artist>
+	<genre>R and B</genre>
+	<year_released>2019</year_released>
+</song>
+<song>
+	<song_name>Praise God</song_name>
+	<artist>Kanye West</artist>
+	<genre>Rap</genre>
+	<year_released>2021</year_released>
+</song>
+<song>
+	<song_name>Working Out</song_name>
+	<artist>JID</artist>
+	<genre>Hip Hop</genre>
+	<year_released>2018</year_released>
+</song>
+</songs>
