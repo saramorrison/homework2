@@ -1,0 +1,47 @@
+songs:before {
+  display: block;
+  width: 4em;
+  font-weight: bold;
+  font-size: 200%;
+  content: "Songs";
+  margin: -.75em 0px .25em -.25em;
+  padding: 1em 1em;
+  background-color: #cdf;
+  }
+
+song {
+  display: block;
+  margin: 2em 1em;
+  border: 4px solid #cdf;
+  padding: 0px 1em;
+  background-color: white;
+  }
+
+song_name {
+  display: block;
+  font-weight: bold;
+  font-size: 150%;
+  margin-bottom: .5em;
+  }
+
+artist {
+  display: block;
+  }
+
+genre {
+  display: block;
+  }
+
+genre:before {
+  content: "Genre: ";
+  }
+
+
+year_released {
+  display: block;
+  }
+
+year_released:before {
+  content: "Year Released: ";
+  }
+
